@@ -1,9 +1,9 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-```
+'''
 http://www.runoob.com/python/python-operators.html
-```
+'''
 
 a = 60            # 60 = 0011 1100 
 b = 13            # 13 = 0000 1101 
